@@ -1,0 +1,55 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-01-22 18:56:02.003526
+Start name method: authorization
+
+End time: 2024-01-22 18:56:13.884826
+End name method: authorization
+URL: https://www.fila.com/account
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-01-22 18:56:13.887616
+Start name method: select_product
+
+End time: 2024-01-22 18:57:06.072579
+End name method: select_product
+URL: https://www.fila.com/shopping-cart
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-01-22 18:57:06.074497
+Start name method: product_confirmation
+
+End time: 2024-01-22 18:57:10.012726
+End name method: product_confirmation
+URL: https://www.fila.com/shopping-cart?dwcont=C395011974
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-01-22 18:57:10.012726
+Start name method: input_information
+
+End time: 2024-01-22 18:57:12.288122
+End name method: input_information
+URL: https://www.fila.com/shopping-cart?dwcont=C395011974
+
+-----
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-01-22 18:57:15.548015
+Start name method: finish
+
+End time: 2024-01-22 18:57:20.922698
+End name method: finish
+URL: https://www.fila.com/shopping-cart?dwcont=C395016898
+
+-----

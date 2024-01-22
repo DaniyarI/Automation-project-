@@ -1,0 +1,46 @@
+Start Test
+Current url https://www.fila.com/account
+Clicked Accept Cookie Button
+Input user name
+Input password
+Click Login Button
+Good value word
+Current url https://www.fila.com/account
+Click Button Men
+Click Button Heritage Apparel
+Click Button Sweatsuits Tracksuits
+Click Button Color
+Click Button Color Black
+Click Button Color White
+Click Button Color Red
+Click Button Size
+Click Button Size L
+Click Button Size XL
+Click Button Price
+Click Button $50 - $100
+Click Button Gender
+Click Button Men
+Click Button Style
+Click Button Jackets
+Click Button Select Product 1
+Click Button Product 1 Color
+Click Button Product 1 Size
+Good value word
+Click Button Add To Bug
+Click Button View Bag
+Current url https://www.fila.com/shopping-cart
+Good value word
+Click Checkout Button
+Current url https://www.fila.com/shopping-cart?dwcont=C395011974
+Input First Name
+Input Last Name
+Input Address
+Input Zip Code
+Click State
+Click New York
+Input Telephone
+Good value word
+Click Button Finish
+Current url https://www.fila.com/shopping-cart?dwcont=C395016898
+Good value word
+Finish Test

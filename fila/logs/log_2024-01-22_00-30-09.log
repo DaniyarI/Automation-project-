@@ -1,0 +1,11 @@
+
+-----
+Test: tests/test_buy_product.py::test_buy_product (call)
+Start time: 2024-01-22 00:30:11.336968
+Start name method: authorization
+
+End time: 2024-01-22 00:30:21.178168
+End name method: authorization
+URL: https://www.fila.com/account
+
+-----
